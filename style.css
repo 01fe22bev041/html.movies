@@ -1,0 +1,48 @@
+h1{
+    color: #0e0e0e;
+    font-size: 40px;
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-weight: normal;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+#first{ 
+    
+    margin-top: 100px;
+    margin-left: 20px;
+    
+ }
+#second{
+    position: relative;
+    left: 200px;
+    bottom: 272px;
+    
+}
+#third{
+    position: relative;
+    left: 400px ;
+    bottom: 540px;
+    line-height: 19px;
+    white-space: bottom;
+}
+#four{
+    position: relative;
+    left: 650px ;
+    bottom: 806px;
+}
+#five{
+    position: relative;
+    left: 850px ;
+    bottom: 1077px
+
+}
+#six{
+    position: relative;
+    left: 1060px ;
+    bottom: 1348px
+
+}
